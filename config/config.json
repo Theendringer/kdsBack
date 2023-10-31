@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "SECRET",
+    "database": "kds",
+    "host": "127.0.0.1",
+    "port": "3360",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "SECRET",
+    "database": "kds",
+    "host": "127.0.0.1",
+    "port": 3360,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "SECRET",
+    "database": "kds",
+    "host": "127.0.0.1",
+    "port": 3360,
+    "dialect": "mysql"
+  }
+}
